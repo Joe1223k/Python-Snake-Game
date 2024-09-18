@@ -1,3 +1,3 @@
 # Python-Snake-Game
 
-![image](./images/python_snake_image.png)
+![Screenshot](./images/python_snake_image.png)
